@@ -38,6 +38,7 @@ y=np.array([[1],[1],[0]])
 
 nn=NeuralNetwork(X,y)
 
+# we are passing the data hundread times through NN
 for i in range(100):
     nn.forward()
     nn.backward()
