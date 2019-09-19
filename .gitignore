@@ -3,4 +3,10 @@ dataset
 datasets
 examples
 temp
+*.zip
+*.pickle
+*.hdf
+*.h5
+*.hdf5
+*.he5
 Some DS Problems
