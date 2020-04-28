@@ -2,6 +2,9 @@
 data
 dataset
 datasets
+samples
+png
+models
 examples
 temp
 *.zip
